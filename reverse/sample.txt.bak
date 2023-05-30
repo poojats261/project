@@ -1,0 +1,6 @@
+import java.util scanner;
+class sample
+{
+static void demo(String str)
+{
+String reverse="ava";
